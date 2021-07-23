@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Libercomus</string>
+
+    <string name="unjugador"> 1 Jugador </string>
+    <string name="dosjugadores"> 2 jugadores </string>
+    <string name="facil">Fácil</string>
+    <string name="normal">Normal</string>
+    <string name="imposible">Imposible</string>
+    <string name="casilla">Casilla</string>
+    <string name="comunistagana">Comunistas ganan!</string>
+    <string name="libertariogana">Libertarios ganan!</string>
+    <string name="empate">Empate!</string>
+
+</resources>

@@ -1,0 +1,49 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.NoActionBar.Fullscreen">
+        <!-- Customize your theme here. -->
+    </style>
+
+<style name="titulo">
+<item name="android:layout_width">wrap_content</item>
+<item name="android:layout_height">wrap_content</item>
+<item name="android:textSize">@dimen/textotitulo</item>
+
+</style>
+
+<style name="boton">
+
+<item name="android:layout_width">wrap_content</item>
+<item name="android:minWidth">6dp</item>
+<item name="android:layout_height">wrap_content</item>
+<item name="android:minHeight">@dimen/altominboton</item>
+<item name="android:layout_margin">@dimen/margenboton</item>
+<item name="android:textSize">@dimen/textoboton</item>
+<item name="android:onClick">aJugar</item>
+    <item name="android:background">@drawable/boton</item>
+
+</style>
+
+
+<style name="radio">
+<item name="android:layout_width">wrap_content</item>
+<item name="android:layout_height">wrap_content</item>
+<item name="android:textSize">@dimen/textoradio</item>
+<item name="android:alpha">0.8</item>
+
+</style>
+
+<style name="casilla">
+<item name="android:layout_width">@dimen/casilla</item>
+<item name="android:layout_height">@dimen/casilla</item>
+<item name="android:src">@drawable/blank</item>
+    <item name="android:layout_margin">2dp</item>
+<item name="android:onClick">toque</item>
+
+
+
+</style>
+
+
+</resources>

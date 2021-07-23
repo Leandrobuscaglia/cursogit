@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">libercomoust man</string>
+
+    <string name="unjugador"> 1 player </string>
+    <string name="dosjugadores"> 2 players </string>
+    <string name="facil">easy</string>
+    <string name="normal">Normal</string>
+    <string name="imposible">impossibble</string>
+    <string name="casilla">casilla</string>
+    <string name="comunistagana">Comunistas ganan!</string>
+    <string name="libertariogana">Libertarios ganan!</string>
+    <string name="empate">Empate!</string>
+
+
+
+
+
+
+</resources>
