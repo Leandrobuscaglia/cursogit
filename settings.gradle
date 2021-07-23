@@ -1,0 +1,2 @@
+rootProject.name='Libercomus'
+include ':app'
